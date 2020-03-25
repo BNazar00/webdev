@@ -830,6 +830,9 @@ footer{
 }
 
 @media  screen and (max-width: 580px) {
+	#nav{
+		display: none;
+	}
 	footer{
 		height: auto;
 	}
