@@ -878,3 +878,7 @@ footer{
 	}
 
 }
+
+.contact img{
+	opacity: 0;
+}
